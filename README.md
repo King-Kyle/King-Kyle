@@ -4,9 +4,9 @@
 
 ### On my Folio
 
-- [My VS Code Theme](https://www.example.com)
-- [Music APP](https://www.example.com)
-- [Stock App](https://www.example.com)
+- [Project 1](https://www.example.com) 
+- [Project 2](https://www.example.com)
+- [Project 3](https://www.example.com)
 
 More on [king-kyle.github.io/](https://www.example.com)
 
