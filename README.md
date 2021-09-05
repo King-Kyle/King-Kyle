@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ### Frontend Developer & Creative
+
+---
 
 ### On my Folio
 
@@ -9,6 +9,8 @@
 - [Stock App](https://www.example.com)
 
 More on [king-kyle.github.io/](https://www.example.com)
+
+---
 
 
 
