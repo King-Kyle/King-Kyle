@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Frontend Developer & Creative
+### Frontend Developer & Creative
 
-# On my Folio
+### On my Folio
 
 - [My VS Code Theme](https://www.example.com)
 - [Music APP](https://www.example.com)
