@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## Frontend Developer & Creative
+
+# On my Folio
+
+- [My VS Code Theme](https://www.example.com)
+- [Music APP](https://www.example.com)
+- [Stock App](https://www.example.com)
+
+More on [king-kyle.github.io/](https://www.example.com)
+
+
+
 <!--
 **King-Kyle/King-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
