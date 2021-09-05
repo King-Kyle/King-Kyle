@@ -4,9 +4,9 @@
 
 ### On my Folio
 
-- [Project 1](https://www.example.com) 
-- [Project 2](https://www.example.com)
-- [Project 3](https://www.example.com)
+-⚡ [Project 1](https://www.example.com) 
+-⚡ [Project 2](https://www.example.com)
+-⚡ [Project 3](https://www.example.com)
 
 More on [king-kyle.github.io/](https://www.example.com)
 
