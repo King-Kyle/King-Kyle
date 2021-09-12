@@ -4,8 +4,8 @@
 
 ### On my Folio
 
-- [Project 1](https://www.example.com) 
-- [Project 2](https://www.example.com)
+- [Project 1](https://king-kyle.github.io/modele/) 
+- [Project 2](https://king-kyle.github.io/The-BrickHouse/)
 - [Project 3](https://www.example.com)
 
 More on [kyleforhire.netlify.app](https://kyleforhire.netlify.app/)
