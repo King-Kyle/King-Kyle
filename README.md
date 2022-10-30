@@ -8,7 +8,7 @@
 - [Project 2](https://king-kyle.github.io/The-BrickHouse/)
 - [Project 3](https://king-kyle.github.io/Filmathon/#/)
 
-More on [kyleforhire.netlify.app](https://kyleforhire.netlify.app/)
+More on [www.kyleking.co.za](https://www.kyleking.co.za)
 
 
 
