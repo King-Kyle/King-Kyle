@@ -2,14 +2,6 @@
 
 ---
 
-### On my Folio
-
-- [Project 1](https://king-kyle.github.io/modele/) 
-- [Project 2](https://king-kyle.github.io/The-BrickHouse/)
-- [Project 3](https://king-kyle.github.io/Filmathon/#/)
-
-More on [www.kyleking.co.za](https://www.kyleking.co.za)
-
 
 
 
